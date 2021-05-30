@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746306471326",
+    "project_id": "todo-93cb9",
+    "storage_bucket": "todo-93cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746306471326:android:7ceafec76c6d6a0e0d028f",
+        "android_client_info": {
+          "package_name": "com.konsolto.firestore_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746306471326-6chfusdghii8l3beib1h2496a1146okf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.konsolto.firestore_todo",
+            "certificate_hash": "20ff988a94e4104c41f7737a2032360f9f237d15"
+          }
+        },
+        {
+          "client_id": "746306471326-jv5lbrq7d07g7akecrjikna2dik3u80o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDFxjbZYLNWF5VJQPl9VmlZKg3xzwJic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746306471326-jv5lbrq7d07g7akecrjikna2dik3u80o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
